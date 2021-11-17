@@ -1,4 +1,5 @@
 vim
+nano
 dvipng
 ghostscript
 texlive-fonts-recommended
