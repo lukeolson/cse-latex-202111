@@ -1,2 +1,0 @@
-- Try commenting out the additional lines in the python file.  What do you think?
-- How would you determine the fonts in the resulting figure?
