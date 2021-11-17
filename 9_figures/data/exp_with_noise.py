@@ -16,6 +16,6 @@ ax.plot(x, r+np.exp(x), '-', lw=1, color='r', label='with noise')
 #ax.set_xlabel('$x$')
 #ax.set_ylabel('$y$')
 #ax.grid(True)
-ax.legend()
+#ax.legend()
 
 plt.savefig('../figures/exp_with_noise.pdf')
