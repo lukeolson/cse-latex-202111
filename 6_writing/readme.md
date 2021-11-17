@@ -1,0 +1,4 @@
+- What is a "linter"?
+- Run `chktex paper_randnoise.tex`.  Which warnings do you see?
+- Fix the warnings and rerun.  Did you fix them?
+- Find the TODOs with `grep TODO paper_randnoise.tex`.  How do  you mark open "issues" in your working document?
